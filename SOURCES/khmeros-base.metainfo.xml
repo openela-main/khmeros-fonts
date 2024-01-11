@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component type="font">
+  <id>khmeros-base</id>
+  <metadata_license>CC0-1.0</metadata_license>
+  <name>Khmer OS</name>
+  <summary>A set of Cambodian fonts</summary>
+  <description>
+    <p>
+	The Khmer OS fonts include Khmer and Latin alphabets, and they have equivalent
+	sizes for Khmer and English alphabets, so that when texts mix both it is not
+	necessary to have different point sizes for the text in each language.
+	They were created by Danh Hong of the Cambodian Open Institute.
+    </p>
+  </description>
+  <updatecontact>psatpute_at_redhat_dot_com</updatecontact>
+  <url type="homepage">http://www.khmeros.info/</url>
+</component>
